@@ -1,7 +1,7 @@
   # Hi, I’m Aman Gupta
-  ## 👀 I’m interested in Backend development and software development.
+  ## 👀 I’m interested in Software Developer and Node.js Developer.
 - 🌱 I’m currently learning for Data Structure and Computer Networks.
-- 💬 Ask me about C++ |Data Structure | HTML | CSS | JavaScript | Algorithm 
+- 💬 Ask me about C++ | Node.js | MongoDB | MySQL | Web Development |Data Structure | Algorithm 
 - 📫 How to reach me amang4885@gmail.com
 
 
