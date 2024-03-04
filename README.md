@@ -5,7 +5,7 @@
 - 📫 How to reach me amang4885@gmail.com
 
 
-<h3 align="left">Languages and Tools:</h3>
+## <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
