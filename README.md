@@ -1,7 +1,7 @@
   # Hi, I’m Aman Gupta
   ## 👀 I’m interested in Software Developer and Node.js Developer.
 - 🌱 I’m currently viewing for job in software developer field.
-- 💬 Ask me about C++ |  Node.js |  MongoDB |  MySQL |  Web Development |  Data Structure |  Algorithm 
+- 💬 Ask me about C++ |  Node.js | Express.js | Angular |  MongoDB |  MySQL |  Web Development |  Data Structure & Algorithm 
 - 📫 How to reach me amang4885@gmail.com
 
 
