@@ -1,43 +1,41 @@
-  # Hi, I’m Aman Gupta
-  ## 👀 I’m interested in Software Developer and Node.js Developer.
-- 🌱 I’m currently viewing for job in software developer field.
-- 💬 Ask me about C++ |  Node.js | Express.js | Angular |  MongoDB |  MySQL |  Web Development |  Data Structure & Algorithm 
-- 📫 How to reach me amang4885@gmail.com
+# 👋 Hello, I'm Aman Gupta!
 
+I’m a dedicated **Software Developer** with a strong focus on **Node.js** and modern web technologies. Currently, I’m on the lookout for exciting opportunities to collaborate and grow as part of innovative teams.
 
-<h3 align="left">Languages and Tools:</h3>
-    <p align="left">
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                alt="cplusplus" width="50" height="50" />
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3" width="50" height="50" />
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="50" height="50" />
-        </a>
-        <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" width="50" height="50" />
-        </a>
-        <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="50" height="50" />
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                alt="mongodb" width="50" height="50" />
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="50" height="50" />
-        </a>
-    </p>
+## 🌟 About Me
 
-<!---
-aman8440/aman8440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in crafting scalable web applications and have a knack for both backend and frontend development. I’m proficient in technologies like Node.js, Express.js, Angular, and have a solid understanding of databases including MongoDB and MySQL.
+
+## 🛠️ Technologies & Tools
+
+Here’s a glimpse of the tools and technologies I work with:
+
+### Languages
+
+- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) [C++](https://www.w3schools.com/cpp/)
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) [JavaScript](https://www.javascript.com)
+
+### Frontend
+
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) [HTML5](https://www.w3.org/html/)
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) [CSS3](https://www.w3schools.com/css/)
+
+### Backend
+
+- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) [Node.js](https://nodejs.org/)
+- ![Express.js](https://expressjs.com/images/express-facebook-share.png) [Express.js](https://expressjs.com/)
+
+### Databases
+
+- ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) [MongoDB](https://www.mongodb.com/)
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) [MySQL](https://www.mysql.com/)
+
+## 🌱 Currently Learning
+
+I’m exploring advanced concepts in Node.js and expanding my knowledge of Angular to keep up with the latest industry trends.
+
+## 💬 Let's Connect!
+
+I’d love to hear from you. Whether you have an opportunity to discuss or just want to talk tech, feel free to reach out!
+
+📫 **Email:** [amang4885@gmail.com](mailto:amang4885@gmail.com)
