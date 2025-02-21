@@ -50,14 +50,14 @@ Other: Data Structures & Algorithms | C++
 </p>
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Aman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aman8440&show_icons=true&theme=radical" alt="Aman's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="Aman's GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman8440&theme=dark" alt="Aman's GitHub streak stats" />
 </p>
 📫 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/aman-gupta-931148208" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:amang4885@gmail.com">
