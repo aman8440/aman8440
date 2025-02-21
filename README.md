@@ -1,5 +1,5 @@
-#Hi there, I'm Aman Gupta 👋
-##Software Developer | Node.js Developer
+# Hi there, I'm Aman Gupta 👋
+## Software Developer | Node.js Developer
 
 👀 I'm interested in Full-Stack Development specializing in Node.js, React, and AWS
 🌱 I'm currently seeking opportunities in the software development field
