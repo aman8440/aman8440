@@ -52,9 +52,6 @@ Other: Data Structures & Algorithms | C++
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aman8440&show_icons=true&theme=radical" alt="Aman's GitHub stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman8440&theme=dark" alt="Aman's GitHub streak stats" />
-</p>
 📫 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-gupta-931148208" target="_blank">
