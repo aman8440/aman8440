@@ -77,7 +77,7 @@ const amanSkills = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://portfolio-aman-guptas-projects-3a054ab6.vercel.app/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/aman8440">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
